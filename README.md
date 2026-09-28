@@ -1,5 +1,7 @@
 # ZhuaTech AI FinOps
 
+[简体中文](README.md) | [English](README.en.md)
+
 AI 成本不应只是一张云账单。本项目把模型 Token、GPU、向量服务等技术成本分摊到业务项目，并进一步观察每次对话、每份文档或每个业务成果的单位成本。
 
 **发布方：上海如静知华信息科技有限公司（知华科技）** · [官方网站 https://www.zhuatech.cn/](https://www.zhuatech.cn/)
